@@ -1,1 +1,5 @@
-This is a mock wordle project I made in my Computer Science class. It uses the nltk library to verify if the chosen word is a real word. So far it only allows for player versus player, but I will implement player versus computer soon.
+Using the Tkinter extenstion and nltk library, I made a mock wordle where you can challenge a player or a cpu.
+
+**This is not the finished product**
+
+Note: to download nltk, use pip install nltk on terminal
